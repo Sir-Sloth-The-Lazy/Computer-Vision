@@ -87,7 +87,6 @@ def train():
     ])
 
     model.compile(
-        # FIX: changed tf.keras.Optimizer to tf.keras.optimizers
         optimizer = tf.keras.optimizers.Adam(learning_rate=0.001),
         loss= tf.keras.losses.SparseCategoricalCrossentropy(from_logits=False),
         metrics = ['accuracy']

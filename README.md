@@ -1,6 +1,6 @@
 # 👁️ Visionary Realm: The Computer Vision Odyssey
 
-Welcome to the **Visionary Realm**, a curated repository documenting the evolution of Computer Vision. This project traces the path from the earliest shallow networks to the cutting-edge Vision-Language Models (VLMs) that power today's AI breakthroughs.
+Welcome to the **Visionary Realm**, a repository documenting the evolution of Computer Vision. This project traces the path from the earliest shallow networks to the cutting-edge Vision-Language Models (VLMs) that power today's AI breakthroughs.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
