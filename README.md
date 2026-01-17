@@ -11,7 +11,7 @@ Welcome to the **Visionary Realm**, a repository documenting the evolution of Co
 
 ## 🚀 The Roadmap
 
-This repository is structured as a chronological and conceptual journey through the field of CV. Whether you're starting with pixels or prompting VLMs, you'll find it here.
+This repository is structured as a conceptual journey through the field of CV. Whether you're starting with pixels or prompting VLMs, you'll find it here.
 
 ### 🥉 Phase 1: The Foundations (Classical & Shallow)
 
