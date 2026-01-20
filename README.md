@@ -13,7 +13,7 @@ Welcome to the **Visionary Realm**, a repository documenting the evolution of Co
 
 This repository is structured as a conceptual journey through the field of CV. Whether you're starting with pixels or prompting VLMs, you'll find it here.
 
-### 🥉 Phase 1: The Foundations (Classical & Shallow)
+### 🥉 Phase 1: The Foundations (Classical)
 
 Understanding the basics of image representation and simple classification.
 
